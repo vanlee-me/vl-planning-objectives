@@ -13,7 +13,10 @@
     - [ ] ~~5.1假期 疫情允许，去趟武汉~~
     - [x] 5.1假期 疫情不允许了 待在北京
     - [ ] 5.1新一线城市房价可视化分析
-    - [ ] 5.1看书《定位》
+    - [x] 5.1看书《定位》[读书笔记](https://github.com/yayxs/frontend-thick-talk/issues/33)
+    - [ ] 专业技能重置 
+      - [ ] 从0开始
+      - [ ] 8号之确认`html`典型书籍、整合现有所有相关资料至 `html-learn` [html-learn](https://github.com/yayxs/html-learn)
 - [ ] 2022-06
     - [ ] 截止06.30 城市落地
 
